@@ -11,7 +11,9 @@ function hasTargetSum(array, target) {
 
 
 /* 
-  Write the Big O time complexity of your function here
+  The time complexity function is O(n^2), where n is the length of the array.
+  This is because there are two nested loops, and each loop iterates through the array once.
+  Therefore, the time complexity of this implementation is O(n**2).
 */
 
 /* 
